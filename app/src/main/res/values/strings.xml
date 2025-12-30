@@ -1,0 +1,10 @@
+
+<resources>
+    <string name="app_name">Avatar</string>
+    <!-- 
+      IMPORTANT: This ID must be the 'Web client (auto created by Google Service)' 
+      from your Google Cloud Console / Firebase Authentication settings.
+      It should look like: 1234567890-abcdefg.apps.googleusercontent.com
+    -->
+    <string name="default_web_client_id">REPLACE_WITH_YOUR_WEB_CLIENT_ID.apps.googleusercontent.com</string>
+</resources>

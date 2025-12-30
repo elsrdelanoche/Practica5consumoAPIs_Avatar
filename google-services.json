@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204562337628",
+    "project_id": "avatar-4c298",
+    "storage_bucket": "avatar-4c298.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204562337628:android:ff1de585cc4d8f42167b99",
+        "android_client_info": {
+          "package_name": "com.example.avatar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUoNPD7iA75gC1Y7AbBEm6JaTfNp3RKsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
